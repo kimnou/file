@@ -1,0 +1,6 @@
+Python too supports file handling and allows users to handle files 
+i.e., to read and write files, along with many other file handling options,
+to operate on files. 
+The concept of file handling has stretched over various other languages,
+but the implementation is either complicated or lengthy,
+but like other concepts of Python, this concept here is also easy and short.
